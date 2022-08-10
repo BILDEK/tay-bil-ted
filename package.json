@@ -1,0 +1,29 @@
+{
+  "name": "bildek",
+  "version": "1.0.0",
+  "description": "bu bir denemedir...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "murat": "echo 'Benim adım murat'",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "deneme",
+    "paket"
+  ],
+  "author": "tayip bilal tedik",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^6.5.2",
+    "nodemailer": "^6.7.7",
+    "simple-is": "^0.2.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.10.0"
+  },
+  "repository":{
+    "type":"git",
+    "url":"https://github.com/BILDEK/tay-bil-ted.git"
+  }
+}
